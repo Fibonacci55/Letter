@@ -29,5 +29,5 @@ et-xmlfile = "*"
 
 [metadata]
 lock-version = "2.1"
-python-versions = ">=3.13"
-content-hash = "692e3bc6db96131eece47dd5986ecef606024eefa9b891679df79587ea7ad07e"
+python-versions = ">=3.13, <3.14"
+content-hash = "7a85e63f5d464095c13af8cd5dd521089356cc226eb815fe738cbd1d9cd3a721"
